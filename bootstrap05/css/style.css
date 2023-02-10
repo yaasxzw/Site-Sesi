@@ -1,0 +1,17 @@
+:root{
+    --dark-blue-700:rgb(0,39,78);
+    --dark-blue-400r:rgb(0,79,156);
+    --dark-blue-300:rgb(9,127,201);
+}
+.pesquisa{
+    background: linear-gradient(to right, var(--dark-blue-300), var(--dark-blue-700));
+}
+header{
+    background-color: rgb(0,79,156);
+}  
+footer{
+    background-color: rgb(0,79,156);
+}
+
+    
+
